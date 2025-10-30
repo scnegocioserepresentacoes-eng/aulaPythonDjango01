@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    background-color: rgb(5, 72, 255);
+    color: rgb(252, 245, 245);
+}
+
+.header a {
+    text-decoration: nome;
+    color: rgb(252, 245, 245);
+    font-weight: bold;
+}
+
